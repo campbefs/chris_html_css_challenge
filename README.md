@@ -10,4 +10,4 @@ Urban-octo-telegram is the file that has been modified based on the original sta
 
 Deployed application can be found at: https://campbefs.github.io/chris_html_css_challenge/
 
-![Alt text](assets\images\live-application-screenshot.JPG?raw=true "Live Application Screenshot")
+![alt text](assets\images\live-application-screenshot.JPG "Live Application Screenshot")
