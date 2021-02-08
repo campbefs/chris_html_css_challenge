@@ -7,3 +7,7 @@ Urban-octo-telegram is the file that has been modified based on the original sta
  - Added descriptive naming for images and other elements
  - Adding section descriptions
  - Converted div elements to more descriptive elements
+
+Deployed application can be found at: https://campbefs.github.io/chris_html_css_challenge/
+
+![Alt text](assets\images\live-application-screenshot.JPG?raw=true "Live Application Screenshot")
